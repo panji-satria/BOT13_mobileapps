@@ -73,7 +73,10 @@ This application consists of a Flutter-based chat interface that communicates wi
   # Example command for running Flutter end-to-end tests
   flutter test test/end_to_end_test.dart
   
-  ![Form Login](./1.jpg)
 
- ![BOT13](./2.jpg)
+
+
+![FORM](https://github.com/paslaframework/BOT13_mobileapps/raw/main/bot13_documentation/1.png)
+![BOT13](https://github.com/paslaframework/BOT13_mobileapps/raw/main/bot13_documentation/1.png)
+
 
