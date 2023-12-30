@@ -41,7 +41,7 @@ This application consists of a Flutter-based chat interface that communicates wi
      python app.py
      ```
 3. **Rasa:**
-   - Ensure you have Python installed (preferably Python 3).
+   - Creating API server w rasa
    - Install the required Python packages:
      ```bash
      pip install rasa
