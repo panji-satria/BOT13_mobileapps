@@ -40,6 +40,19 @@ This application consists of a Flutter-based chat interface that communicates wi
      ```bash
      python app.py
      ```
+3. **Rasa:**
+   - Ensure you have Python installed (preferably Python 3).
+   - Install the required Python packages:
+     ```bash
+     pip install rasa
+     ```
+     rasa init
+     ```
+     rasa train
+     ```
+   - Navigate to the `rasa server` directory and run:
+     ```bash
+     rasa run
 
 ## Usage
 
