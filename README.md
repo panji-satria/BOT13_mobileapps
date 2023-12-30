@@ -77,7 +77,7 @@ This application consists of a Flutter-based chat interface that communicates wi
 
 # Images
 ![FORM](https://github.com/paslaframework/BOT13_mobileapps/raw/main/bot13_documentation/1.png)
-![BOT13](https://github.com/paslaframework/BOT13_mobileapps/raw/main/bot13_documentation/1.png)
+![BOT13](https://github.com/paslaframework/BOT13_mobileapps/raw/main/bot13_documentation/2.png)
 
 
 
