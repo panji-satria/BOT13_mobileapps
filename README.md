@@ -13,7 +13,7 @@ byme: Panji Satria Taqwa Putra Purnama student  at Ahmad Dahlan University Yogya
 
 ## Overview
 
-This application consists of a Flutter-based chat interface that communicates with a Flask server. The Flutter front-end allows users to send messages, and the Flask back-end processes these messages and generates appropriate responses.
+This application consists of a Flutter-based chat interface that communicates with a Flask and Rasa server. The Flutter front-end allows users to send messages, and the Flask back-end processes these messages and generates appropriate responses.
 
 ## Features
 
