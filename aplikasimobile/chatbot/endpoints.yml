@@ -1,0 +1,22 @@
+models:
+  url: http://127.0.0.1:5000/models
+  wait_time_between_pulls: 10
+
+action_endpoint:
+  url: "http://127.0.0.1:5000/webhook"
+
+environment:
+  http_proxy: http://127.0.0.1:5000
+
+tracker_store:
+  type: redis
+  url: localhost
+  port: 6379
+  db: 0
+  password: ""
+
+event_broker:
+  url: localhost
+  username: ""
+  password: ""
+  queue: ""
