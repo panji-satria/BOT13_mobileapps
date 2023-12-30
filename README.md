@@ -1,5 +1,6 @@
 # BOT13
 Welcome to the ChatBot application! This project includes a Flutter front-end and a integration rasa and Flask back-end to create a chatbot.
+byme: Panji Satria Taqwa Putra Purnama student  at ahmad dahlan university Yogyakarta
 
 ## Table of Contents
 - [Overview](#overview)
